@@ -1,0 +1,221 @@
+{
+    "ID 1": {
+        "Centro\u00efde": "Meunet",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Bretagne",
+            "Dieu",
+            "Meunet",
+            "Meunet-sur-"
+        ]
+    },
+    "ID 2": {
+        "Centro\u00efde": "JEANNE",
+        "Freq. centroide": 53,
+        "Termes": [
+            "JEANNE",
+            "JEANNS",
+            "JEANNp",
+            "JKANNE",
+            "Jean",
+            "Jeanne",
+            "Jeanne\u201d",
+            "Jeanno",
+            "Jeanre",
+            "Jeax",
+            "Jennne",
+            "Jeunne",
+            "Joanne",
+            "Saint-Jean",
+            "Vatan"
+        ]
+    },
+    "ID 3": {
+        "Centro\u00efde": "Hautes-",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Auguste",
+            "Hautes-",
+            "Ri-haut"
+        ]
+    },
+    "ID 4": {
+        "Centro\u00efde": "SECONDEPARTIE",
+        "Freq. centroide": 1,
+        "Termes": [
+            "SECONDEPARLIE",
+            "SECONDEPARTIE",
+            "SL-ONDEPARTIE",
+            "TROISI\u00c8MEPARTIE"
+        ]
+    },
+    "ID 5": {
+        "Centro\u00efde": "Isaure",
+        "Freq. centroide": 3,
+        "Termes": [
+            "Isaure",
+            "Isauro",
+            "Maurice",
+            "eure"
+        ]
+    },
+    "ID 6": {
+        "Centro\u00efde": "Louis",
+        "Freq. centroide": 5,
+        "Termes": [
+            "Bourges",
+            "Colis",
+            "Issoudun",
+            "Louis",
+            "Louisc",
+            "Louise",
+            "Out",
+            "grandLouis",
+            "ocs"
+        ]
+    },
+    "ID 7": {
+        "Centro\u00efde": "Eee",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Eee"
+        ]
+    },
+    "ID 8": {
+        "Centro\u00efde": "Blanche",
+        "Freq. centroide": 2,
+        "Termes": [
+            "Blanche",
+            "Blanched\u00e9p\u00e9-",
+            "Cher",
+            "Flandre",
+            "France"
+        ]
+    },
+    "ID 9": {
+        "Centro\u00efde": "Pierre",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Berry",
+            "MERE",
+            "Pierre",
+            "Pierres-Folles",
+            "Saint-Pierre",
+            "Tixier"
+        ]
+    },
+    "ID 10": {
+        "Centro\u00efde": "SERVICR",
+        "Freq. centroide": 2,
+        "Termes": [
+            "SERVICE",
+            "SERVICR",
+            "SERVIUK"
+        ]
+    },
+    "ID 11": {
+        "Centro\u00efde": "Claude",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Claude",
+            "Gerbaud",
+            "Mudam\u00e8",
+            "hilla"
+        ]
+    },
+    "ID 12": {
+        "Centro\u00efde": "toi",
+        "Freq. centroide": 47,
+        "Termes": [
+            "Embrasse-moi",
+            "JM",
+            "boire",
+            "toi"
+        ]
+    },
+    "ID 13": {
+        "Centro\u00efde": "Cathorino",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Catherine",
+            "Cathorino",
+            "Gathorino",
+            "Ini",
+            "No\u00ebl",
+            "S\u00e9atino"
+        ]
+    },
+    "ID 14": {
+        "Centro\u00efde": "Grand-Bal",
+        "Freq. centroide": 1,
+        "Termes": [
+            "AL",
+            "Grand-Bail",
+            "Grand-Bal",
+            "Jusserand",
+            "granges"
+        ]
+    },
+    "ID 15": {
+        "Centro\u00efde": "Paris",
+        "Freq. centroide": 3,
+        "Termes": [
+            "Grise",
+            "Is-",
+            "Mar-",
+            "Paris",
+            "Paul"
+        ]
+    },
+    "ID 16": {
+        "Centro\u00efde": "Sainte-So-lange",
+        "Freq. centroide": 1,
+        "Termes": [
+            "Sainte-So-lange",
+            "Sainte-Solange",
+            "So-",
+            "Solange",
+            "Sylvain"
+        ]
+    },
+    "ID 17": {
+        "Centro\u00efde": "Jos\u00e9phine",
+        "Freq. centroide": 18,
+        "Termes": [
+            "Jos\u00e9-",
+            "Jos\u00e9phine",
+            "Madeleine",
+            "Sophie"
+        ]
+    },
+    "ID 18": {
+        "Centro\u00efde": "P\u00e9rinnerie",
+        "Freq. centroide": 2,
+        "Termes": [
+            "Afrique",
+            "Bordinerie",
+            "Marguerite",
+            "P\u00e9rinnerie",
+            "Tr\u00e9chanderin"
+        ]
+    },
+    "ID 19": {
+        "Centro\u00efde": "PREMI\u00c8RE",
+        "Freq. centroide": 1,
+        "Termes": [
+            "M\u00c8RE",
+            "PREMI\u00c8RE",
+            "PREMI\u00c8REPARTIE"
+        ]
+    },
+    "ID 20": {
+        "Centro\u00efde": "Nannette",
+        "Freq. centroide": 10,
+        "Termes": [
+            "Nannette",
+            "Nannotte",
+            "Nunnette",
+            "Tenez"
+        ]
+    }
+}
